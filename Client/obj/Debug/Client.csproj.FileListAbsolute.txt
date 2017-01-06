@@ -1,0 +1,8 @@
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\bin\Debug\Client.exe.config
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\bin\Debug\Client.exe
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\bin\Debug\Client.pdb
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\obj\Debug\Client.Properties.Resources.resources
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\obj\Debug\Client.exe
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Client\obj\Debug\Client.pdb

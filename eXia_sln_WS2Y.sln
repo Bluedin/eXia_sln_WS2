@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CAD", "CAD\CAD.csproj", "{CA1D56FB-A7EE-436F-8B8E-B6B2B19283C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Middleware", "Middleware\Middleware.csproj", "{D4D64027-0AE9-4FD9-9B91-1E2C8D0611CE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Client", "Client\Client.csproj", "{9882868C-D58D-439A-939E-A7163878B89D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CA1D56FB-A7EE-436F-8B8E-B6B2B19283C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA1D56FB-A7EE-436F-8B8E-B6B2B19283C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA1D56FB-A7EE-436F-8B8E-B6B2B19283C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA1D56FB-A7EE-436F-8B8E-B6B2B19283C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D4D64027-0AE9-4FD9-9B91-1E2C8D0611CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D4D64027-0AE9-4FD9-9B91-1E2C8D0611CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D4D64027-0AE9-4FD9-9B91-1E2C8D0611CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D4D64027-0AE9-4FD9-9B91-1E2C8D0611CE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9882868C-D58D-439A-939E-A7163878B89D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9882868C-D58D-439A-939E-A7163878B89D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9882868C-D58D-439A-939E-A7163878B89D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9882868C-D58D-439A-939E-A7163878B89D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

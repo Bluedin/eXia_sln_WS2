@@ -1,0 +1,5 @@
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Middleware\bin\Debug\Middleware.dll
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Middleware\bin\Debug\Middleware.pdb
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Middleware\obj\Debug\Middleware.csprojResolveAssemblyReference.cache
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Middleware\obj\Debug\Middleware.dll
+C:\Users\pblue\Documents\Visual Studio 2015\Projects\eXia_sln_WS2Y\Middleware\obj\Debug\Middleware.pdb
